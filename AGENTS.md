@@ -5,3 +5,4 @@
 - 技能直接维护 skills/；保留技能 ID、调用策略和自身资料，不引用其他仓库的文件。
 - 修改对外说明时保持 README.md 和 docs/README.cn.md 对齐；解释性注释使用中文，代码标识符、日志和配置键使用英文。
 - 修改后运行 README 中相关的现有检查；未经用户明确要求，不新增测试、不提交、不推送、不使用 subagents。
+- 使用说明、历史设计或技能审查先读 [docs/index.md](docs/index.md)；活动状态只维护 MIGRATION.md。

@@ -44,6 +44,8 @@ Use $agent-dev-standards:code-comment-standard to review comments in the request
 
 ## Maintenance
 
+See the [documentation index](docs/index.md) for usage and historical design or review material migrated from Vibekits.
+
 plugin-catalog.json is the metadata source. Generated manifests and local authoring marketplaces point to this repository root. Run these commands from this directory; the link checker requires an initialized Git repository:
 
 ~~~bash
