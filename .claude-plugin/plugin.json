@@ -1,0 +1,23 @@
+{
+  "name": "agent-dev-standards",
+  "description": "Development standards and practices for AI coding agents, tailored to personal preferences.",
+  "version": "1.2.0",
+  "author": {
+    "name": "Laxpud"
+  },
+  "homepage": "https://github.com/Laxpud/agent-dev-standards",
+  "repository": "https://github.com/Laxpud/agent-dev-standards",
+  "license": "MIT",
+  "keywords": [
+    "code-quality",
+    "comments",
+    "documentation",
+    "python",
+    "uv",
+    "hatchling",
+    "pyproject"
+  ],
+  "skills": [
+    "./skills/"
+  ]
+}

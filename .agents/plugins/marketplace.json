@@ -1,0 +1,20 @@
+{
+  "name": "laxpud-agent-dev-standards",
+  "interface": {
+    "displayName": "Agent Dev Standards"
+  },
+  "plugins": [
+    {
+      "name": "agent-dev-standards",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
